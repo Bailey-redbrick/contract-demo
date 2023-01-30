@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
 
+// Note: run remix script: remixd -s . --remix-ide https://remix.ethereum.org
+
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
